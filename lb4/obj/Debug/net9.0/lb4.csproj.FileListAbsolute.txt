@@ -1,0 +1,11 @@
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/bin/Debug/net9.0/lb4
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/bin/Debug/net9.0/lb4.dll
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/bin/Debug/net9.0/lb4.pdb
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.csproj.AssemblyReference.cache
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.AssemblyInfoInputs.cache
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.AssemblyInfo.cs
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.csproj.CoreCompileInputs.cache
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.dll
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/refint/lb4.dll
+/Users/vladburtsev/Desktop/university/Технології розподілених систем/lb4/lb4/obj/Debug/net9.0/lb4.pdb
